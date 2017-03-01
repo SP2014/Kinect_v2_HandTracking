@@ -1,0 +1,1 @@
+E:\Work\Github\Kinect_v2_HandTracking\Kinect_v2_HandTracking\bin\Debug\Kinect_v2_HandTracking.exe.config

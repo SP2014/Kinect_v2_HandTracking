@@ -1,0 +1,13 @@
+﻿<Window x:Class="Kinect_v2_HandTracking.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" Closed="Window_Closed">
+    <Grid>
+        <Viewbox>
+            <Grid Width="1920" Height="1080">
+                <Image Name="image"/>
+                <Canvas Name="canvas"/>
+            </Grid>
+        </Viewbox>
+    </Grid>
+</Window>
